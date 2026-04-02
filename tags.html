@@ -1,0 +1,13 @@
+---
+layout: default
+title: Tags
+permalink: /tags/
+---
+<div class="max-w-6xl mx-auto px-6 py-12">
+  <h1 class="text-4xl font-bold mb-10">All Tags</h1>
+  <div class="flex flex-wrap gap-3">
+    {% for tag in site.tags %}
+      <a href="#" class="text-lg bg-gray-100 hover:bg-gray-200 px-5 py-2 rounded-3xl">#{{ tag[0] }} ({{ tag[1].size }})</a>
+    {% endfor %}
+  </div>
+</div>
