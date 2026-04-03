@@ -3,7 +3,7 @@ description: Pulse of the markets, tech, life, and everything in between.
 author: Your Name Here
 baseurl: ""                    # leave empty for root
 url: "https://soumithhh.github.io/mp"   # update after deploy
-permalink: /:title/
+permalink: /mp/:title/
 markdown: kramdown
 highlighter: rouge
 plugins:
