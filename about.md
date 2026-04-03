@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /mp/about/
 ---
 
 # About Market Pulse
