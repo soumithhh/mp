@@ -1,7 +1,7 @@
 title: Market Pulse
 description: Pulse of the markets, tech, life, and everything in between.
 author: Your Name Here
-baseurl: ""                    # leave empty for root
+baseurl: "/mp"                    # leave empty for root
 url: "https://soumithhh.github.io"   # update after deploy
 permalink: /:title/
 markdown: kramdown
